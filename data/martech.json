@@ -1,0 +1,152 @@
+{
+  "name": "Marketing 2015",
+  "children": [
+    {
+      "name": "Intelligence",
+      "children": [
+        {
+          "name": "Dashboards",
+          "children": [
+            {"name": "Tableau", "icon": "tableu-adu.png", "link": "http://www.tableau.com/", "Contact": "John Jensen"},
+            {"name": "Beckon", "icon": "beckon.jpg", "link": "http://www.beckon.com/", "Contact": "Benjamin Sternthal"}
+          ]
+        },
+        {
+          "name": "Brand Awareness",
+          "children": [
+            {"name": "Brainjuicer", "icon": "brainjuicer-logo.jpg", "link": "http://www.brainjuicer.com/", "Contact": "Mary Ellen Muckerman"}
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Outside Partners",
+      "children": [
+        {
+          "name": "Agencies",
+          "children": [
+            {"name": "BBDO", "icon": "BBDO_logo.jpg", "link": "https://www.bbdo.com/", "Contact": "Winston Bowden"}
+          ]
+        },
+        {
+          "name": "Consultants",
+          "children": [
+            {"name": "JustMedia", "icon": "JustMedia-logo.png", "link": "http://justmedia.com/", "Contact": "Mary Ellen Muckerman"},
+            {"name": "AnalyticsPros", "icon": "analyticspro.png", "link": "https://www.analyticspros.com/", "Contact": "Chris More"},
+            {"name": "DEG", "icon": "deg.jpeg", "link": "http://www.degdigital.com/", "Contact": "Jessilyn Davis"}
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Telemetry",
+      "children": [
+        {
+          "name": "Product",
+          "children": [
+            {"name": "Firefox Input", "icon": "firefox-input.png", "link": "https://input.mozilla.org/", "Contact": "Matt Grimes"},
+            {"name": "Firefox ADI", "icon": "ff-adi.png", "link": "https://metrics.mozilla.com/protected/bcolloran/dailyUsageSignals/adiDetails.html", "Contact": "Sheeri Cabral"},
+            {"name": "Heartbeat", "icon": "Heartbeatheader.png", "link": "https://wiki.mozilla.org/Advocacy/heartbeat", "Contact": "Matt Grimes"},
+            {"name": "Firefox Health Report", "icon": "fhr.png", "link": "https://support.mozilla.org/en-US/kb/firefox-health-report-understand-your-browser-perf", "Contact": "Benjamin Smedberg"}
+          ]
+        },
+        {
+          "name": "App Store / iOS / Android",
+          "children": [
+            {"name": "Google Play", "icon": "google-play.png", "link": "https://play.google.com", "Contact": "Alex Davis"},
+            {"name": "Itunes Connect", "icon": "itunes-connect.png", "link": "https://itunesconnect.apple.com", "Contact": "Alex Davis"},
+            {"name": "Adjust", "icon": "adjust.png", "link": "https://www.adjust.com", "Contact": "Alex Davis"}
+          ]
+        },
+        {
+          "name": "Analytics",
+          "children": [
+            {"name": "Google Analytics", "icon": "ga.png", "link": "http://www.google.com/analytics/", "Contact": "Chris More"},
+            {"name": "Flashtalking", "icon": "flashtalking-logo1.jpg", "link": "http://www.flashtalking.com", "Contact": "Winston Bowden"},
+            {"name": "Metrica PR", "icon": "metrica-pr.png", "link": "http://www.metrica.net", "Contact": "Erica Jostedt"}
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Testing",
+      "children": [
+        {
+          "name": "A/B",
+          "children": [
+            {"name": "Optimizely", "icon": "Optimizely_blue_logo.png", "link": "https://www.optimizely.com/", "Contact": "Chris More"}
+          ]
+        },
+        {
+          "name": "Surveys",
+          "children": [
+            {"name": "Surveygizmo", "icon": "surveygizmo.png", "link": "http://www.surveygizmo.com/", "Contact": "Greg Lind"}
+          ]
+        },
+        {
+          "name": "Product",
+          "children": [
+            {"name": "Funnelcake Builds", "icon": "funnelcake.png", "link": "https://wiki.mozilla.org/Funnelcake", "Contact": "Shane Caraveo"}
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Marketing Operations",
+      "children": [
+        {
+          "name": "Owned Media",
+          "children": [
+            {"name": "Snippets", "icon": "snippets.png", "link": "https://abouthome-snippets-service.readthedocs.org/", "Contact": "Jean Collings"},
+            {"name": "Mozilla Websites", "icon": "websites.png", "link": "http://www.mozilla.org", "Contact": "Various"},
+            {"name": "WpEngine", "icon": "wp-engine-logo.png", "link": "https://wpengine.com/", "Contact": "Sean Rich"}
+          ]
+        },
+        {
+          "name": "Paid Media",
+          "children": [
+            {"name": "Google AdWords", "icon": "google-ad-words.jpg", "link": "https://www.google.com/adwords/", "Contact": "Chris More"},
+            {"name": "Bing Ads", "icon": "Bing_Ads_logo.png", "link": "http://advertise.bingads.microsoft.com", "Contact": "Chris More"}
+          ]
+        },
+        {
+          "name": "Social Media",
+          "children": [
+            {"name": "Sprinklr", "icon": "sprinklr-logo-cropped-300.jpg", "link": "https://www.sprinklr.com/", "Contact": "Maura Touhy"},
+            {"name": "Social Chorus", "icon": "socialchorus.png", "link": "http://www.socialchorus.com/", "Contact": "Jessica Osorio"},
+            {"name": "Facebook", "icon": "facebook_2015_logo_detail.png", "link": "https://facebook.com", "Contact": "Maura Touhy"},
+            {"name": "Twitter", "icon": "twitter-social-network-icon-vector_652139.jpg", "link": "https://twitter.com", "Contact": "Maura Touhy"}
+          ]
+        },
+        {
+          "name": "Email",
+          "children": [
+            {"name": "ExactTarget", "icon": "Exact-target-logo.png", "link": "http://www.exacttarget.com/", "Contact": "Jessilyn Davis"},
+            {"name": "Salesforce", "icon": "salesforce-logo-1024x744.png", "link": "http://www.salesforce.com", "Contact": "Sean Richhttp://www.salesforce.com"}
+          ]
+        },
+        {
+          "name": "Project Management",
+          "children": [
+            {"name": "GitHub", "icon": "github_logo-1.png", "link": "http://github.com/", "Contact": "Various"},
+            {"name": "NetX DAM", "icon": "dam.png", "link": "https://mozilla.netx.net", "Contact": "Sean Rich"},
+            {"name": "Kanbanery", "icon": "kanbanery-logo.png", "link": "http://kanbanery.com/", "Contact": "Benjamin Sternthal"},
+            {"name": "Bugzilla", "icon": "bugzilla-0d1d13253c39acc09666736956c77ffc.png", "link": "http://bugzilla.mozilla.org/", "Contact": "Various"}
+          ]
+        },
+        {
+          "name": "Web Services",
+          "children": [
+            {"name": "AWS", "icon": "AmazonWebservices_Logo.svg.png", "link": "http://aws.amazon.com/", "Contact": "Benjamin Sternthal"},
+            {"name": "New Relic", "icon": "new-relic-logo.png", "link": "http://newrelic.com/", "Contact": "Sean Rich"}
+          ]
+        }
+      ]
+    }
+
+  ]
+}
