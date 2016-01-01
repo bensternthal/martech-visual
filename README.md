@@ -23,4 +23,4 @@ Omnigraffle & pdf
 
 Icons
 ====
-Icons can be found in ```/icons```.
+Icons can be found in ```/images```.
