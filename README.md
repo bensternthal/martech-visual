@@ -3,6 +3,10 @@ This repository contains:
 1. A d3 / html based visualization of our marketing stack (index.html)
 2. A omnigraffle / pdf visualization
 
+View It!
+============
+http://bensternthal.github.io/martech-visual/
+
 Methodology
 ========
 Items were added based on a combination of Heather Crince's Data Pipeline document
